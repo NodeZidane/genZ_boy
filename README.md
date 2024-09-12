@@ -1,1 +1,1 @@
-# genZ_boy
+https://nodezidane.github.io/genZ_boy/
